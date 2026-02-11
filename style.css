@@ -1,4 +1,16 @@
-body
-{
-background-color :"FFA07A"
+body{
+background:"FFA07A";
+  color:#333;
+  width:100%;
+  font-family:sans-seerif;
+  margin:0 auto;
+}
+
+.header{
+  widrh:90%;
+  margin:auto;
+  heigth:120px;
+  line-heigth:120px;
+  background:#417aa8;
+  color:#fff;
 }
